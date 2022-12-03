@@ -1,2 +1,2 @@
 # algo_tests
-small C snippets from first semester tests 
+my solutions to first semester tests on C language
