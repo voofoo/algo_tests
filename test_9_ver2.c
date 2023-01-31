@@ -22,5 +22,4 @@ void main()
          vathmos[x+1]=temp;
      }
      for (x=0;x<=5-1;x++)//To for αυτό υλοποιεί την εκτύπωση του πίνακα
-     printf("%d, ",vathmos[x]); //Ο χαρακτήρας \t συμβολίζει τ
-}
+     printf("%d, ",vathmos[x]);
